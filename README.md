@@ -57,4 +57,4 @@ This project is released under the MIT License. Feel free to use, modify, and di
 
 ## 🙏 Acknowledgments
 
-This game is heavily inspired by the timeless gameplay of the arcade classic *Pac-Man*, created by Toru Iwatani and released by Namco in 1980. Happy painting\!
+Happy painting\!
