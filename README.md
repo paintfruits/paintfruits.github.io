@@ -45,8 +45,6 @@ You can play the latest version live here: **[paintfruits.github.io](https://pai
  index.html        # Main game page
 ```
 
-*(Adjust the structure above to match your actual project files)*
-
 ## 💻 Technologies Used
 
   * **HTML5** for structure and the Canvas API
