@@ -9,7 +9,7 @@ A vibrant and colorful browser-based arcade game where you bring fruits to life 
   * High score tracking to chase your personal best 🏆
   * Rainbow Palettes to turn the tables on the smudges\! 🌈
   * Responsive design for desktop and mobile 📱
-  * Colorful pixel-art graphics and cheerful sound effects 🎶
+  * Colorful pixel-art graphics
 
 ## 🚀 Getting Started
 
